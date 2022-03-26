@@ -1,1 +1,9 @@
-укывп
+#include <iostream>
+#include "Header.h"
+#include "Header1.h"
+int main()
+{
+Number_of_countrie();	
+return 0;
+};
+
