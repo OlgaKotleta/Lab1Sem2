@@ -1,0 +1,14 @@
+#include <iostream>
+#include "Header1.h"
+using namespace std;
+
+void Tcountries::set(int population, int square, int count_of_city) {
+    this->population = population;
+    this->square = square;
+    this->count_of_city = count_of_city;
+};
+void Tcountries::get{
+        cout << "Population is " << population << endl;
+        cout << "Square is " << square << endl;
+        cout << "Count of city is " << count_of_city << endl;
+};
