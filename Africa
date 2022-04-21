@@ -1,14 +1,9 @@
 #include <iostream>
 #include "Header1.h"
 using namespace std;
-
-void Tcountries::set(int population, int square, int count_of_city) {
-    this->population = population;
-    this->square = square;
-    this->count_of_city = count_of_city;
-};
-void Tcountries::get{
-        cout << "Population is " << population << endl;
-        cout << "Square is " << square << endl;
-        cout << "Count of city is " << count_of_city << endl;
+void Africa : public Number_of_continent::Number_of_continent1() override {
+    cout << "1.Nigeria" << endl;
+    cout << "2.Chana" << endl;
+    cout << "3.Morocco" << endl;
+    cout << "4.Ethiopia" << endl;
 };
