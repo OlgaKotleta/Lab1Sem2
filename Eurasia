@@ -1,9 +1,10 @@
 #include <iostream>
 #include "Header1.h"
 using namespace std;
-void override Eurasia: public Number_of_continent::Number_of_continent1() {
-    cout << "1.Great Britain" << endl;
-    cout << "2.Russia" << endl;
-    cout << "3.China" << endl;
-    cout << "4.Germany" << endl;
+void override Eurasia: public Number_of_continent::Number_of_continent1() 
+{
+  cout << "1.Great Britain" << endl;
+  cout << "2.Russia" << endl;
+  cout << "3.China" << endl;
+  cout << "4.Germany" << endl;
 };
