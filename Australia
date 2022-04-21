@@ -1,0 +1,9 @@
+#include <iostream>
+#include "Header1.h"
+using namespace std;
+void Australia: public Number_of_continent::Number_of_continent1 override () {
+    cout << "1.New Zealand" << endl;
+    cout << "2.New Guinea" << endl;
+    cout << "3.Fiji" << endl;
+    cout << "4.Kiribati" << endl;
+};
