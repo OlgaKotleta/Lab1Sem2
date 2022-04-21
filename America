@@ -1,10 +1,10 @@
 #include <iostream>
 #include "Header1.h"
 using namespace std;
-void America: public Number_of_continent::Number_of_continent1 override() {
-        cout << "1.USA" << endl;
-        cout << "2.Canada" << endl;
-        cout << "3.Mexico" << endl;
-        cout << "4.Cuba" << endl;
-
-    };
+void America: public Number_of_continent::Number_of_continent1 override() 
+{
+  cout << "1.USA" << endl;
+  cout << "2.Canada" << endl;
+  cout << "3.Mexico" << endl;
+  cout << "4.Cuba" << endl;
+};
