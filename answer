@@ -1,0 +1,9 @@
+#include <iostream>
+#include "Header1.h"
+using namespace std;
+int answer::answer1() {
+    int num;
+    cout << "Your answer: ";
+    cin >> num;
+    return num;
+};
